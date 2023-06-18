@@ -1,17 +1,13 @@
-### Hi there 👋
-
-
-**Dhrumilshah77/Dhrumilshah77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there, I'm Dhrumil Shah 👋
 🔭 I’m currently working on a personal project!
-🌱 I’m currently learning Data Science and Analytics 
-👯 I’m actively looking for Summer'24 Internships 
-📫 How to reach me: ...
-   mailto:dhrumil789789@gmail.com  | LinkedIndhrumil-shah1/  |  Mediumdhrumil789789 |
+🌱 I’m currently learning Data Science and Analytics 🤣
+👯 I’m looking to collaborate with other content creators
 🥅 2023 Goals: Give impact to society
--->
+⚡ Fun fact: I love blogging, reading books, and drawing
+Connect with me:
+audhiaprilliant.github.ioaudhiaprilliant | LinkedInaudhiaprilliant | Mediumaudhiaprilliant | Kaggleaudhiaprilliant | Code Chefaudhiaprilliant | Twitter
+
+
 
 
 
