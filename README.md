@@ -4,7 +4,7 @@ Hi there, I'm Dhrumil Shah 👋
 
 🌱 I’m currently learning Data Science and Analytics 
 
-👯 I’m actively looking for Summer'24 internships
+📑 I’m actively looking for Summer'24 internships
 
 🥅 2023 Goals: Give impact to society
 
